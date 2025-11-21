@@ -1,0 +1,12 @@
+# ignore env .venv files
+.venv/
+# ignore Python cache files
+__pycache__/
+*.py[cod]
+.vscode/
+.DS_Store
+.env
+.langsmith/
+.langsmith/
+langsmith.db
+chroma_db/
